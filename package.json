@@ -1,0 +1,13 @@
+{
+    "name": "@pro_username1/tailwind-css",
+    "version": "1.0.1",
+    "main": "index.js",
+    "author": "",
+    "license": "MIT",
+    "keywords": [],
+    "description": "",
+    "bin": "./bin/bin.js",
+    "dependencies": {
+        "tailwindcss": "^3.4.1"
+    }
+}
