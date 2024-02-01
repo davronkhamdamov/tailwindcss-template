@@ -8,8 +8,8 @@
     "description": "",
     "scripts": {
         "start": "npx tailwindcss -i ./src/index.css -o output.css --watch",
-        "start": "npx tailwindcss -o minify.css --minify"
-    }
+        "minify": "npx tailwindcss -o minify.css --minify"
+    },
     "dependencies": {
         "tailwindcss": "^3.4.1"
     }
